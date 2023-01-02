@@ -6,6 +6,7 @@ using Microsoft.Win32;
 using System.Collections.Generic;
 using System.Diagnostics.Eventing.Reader;
 
+// no juzguen está hecho en 40 minutos en una mañana
 
 namespace wawawawa
 {
